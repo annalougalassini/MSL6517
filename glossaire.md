@@ -22,7 +22,7 @@ Dates de rendu :
 
 ### Base de données
 
-### Catalogage
+### Catalogage (Anna-lou GALASSINI)
 
 ### Classification
 
@@ -38,7 +38,8 @@ Dates de rendu :
 
 ### Dictionnaires de données du RCIP
 
-### Dublin Core
+### Dublin Core (Anna-lou GALASSINI)
+)
 
 ### EDM (Europeana Data Model)
 
@@ -112,7 +113,7 @@ Dates de rendu :
 
 ### Tag
 
-### Thesaurus
+### Thesaurus (Anna-lou GALASSINI)
 
 ### URI Uniform Resource Identifier
 
