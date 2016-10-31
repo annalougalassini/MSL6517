@@ -44,6 +44,7 @@ Jean-Michel Godbout
 ### Dictionnaires de données du RCIP
 
 ### Dublin Core
+Anna-lou GALASSINI
 
 ### EDM (Europeana Data Model)
 
@@ -65,6 +66,7 @@ Vanessa Michaud
 ### FOAF (Friend of a Friend)
 
 ### Granularité (d’une description, etc.)
+GALASSINI Anna-lou
 
 ### HTTP (HyperText Transfer Protocol)
 
@@ -80,8 +82,10 @@ Laurie Beaudoin
 
 ### Profil d’application
 
+
 ### Indexation
 Vanessa Michaud
+
 
 ### Interopérabilité
 Isabelle Algrin
@@ -101,7 +105,7 @@ Isabelle Algrin
 ### OAI-PMH (Open Archives Initiative Protocol for Metadata Harvesting)
 
 ### Ontologie
-
+Anna-lou GALASSINI
 ### Protocole (/!\, le terme est là deux fois ? LB 28-10-2016)
 
 ### Préservation (numérique)
